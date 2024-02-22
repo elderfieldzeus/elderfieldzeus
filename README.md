@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Greetings, loved ones! 😀</h3>
-  <img src="./images/mrbean.gif" width="750px">
+  <img src="./images/mrbean.gif" width="550px">
 </div>
 <!--
 **elderfieldzeus/elderfieldzeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
