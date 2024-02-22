@@ -12,17 +12,17 @@
 - Currently taking **The Odin Project**. 🧔🏻‍♂️
 - Aspiring to become a future **Software Engineer**. 👨🏻‍💻
 
-<!--
-**elderfieldzeus/elderfieldzeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technology Stack 🤓
+<div align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
+  <img src="https://img.shields.io/badge/LINUX-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/UBUNTU-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/JUPYTER-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</div>
