@@ -26,3 +26,14 @@
   <img src="https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/JUPYTER-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </div>
+
+<hr />
+
+### Github Stats 📈
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elderfieldzeus&theme=dark&show_icons=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderfieldzeus&theme=dark&layout=compact" height="150px"/>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=elderfieldzeus&color=lightgrey"/>
+</div>
