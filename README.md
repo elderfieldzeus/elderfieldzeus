@@ -9,7 +9,7 @@
 ### About me 🙋🏻‍♂️
 - Currently studying **Computer Science** at the **University of San Carlos**. 🏫
 - Interested in **Programming**, **Software Development**, and **Data Science**. 🖥️
-- Currently taking **The Odin Project**. 🧔🏻‍♂️
+- Currently learning **Web Development** with **The Odin Project**. 🧔🏻‍♂️
 - Aspiring to become a future **Software Engineer**. 👨🏻‍💻
 
 ### Technology Stack 🤓
