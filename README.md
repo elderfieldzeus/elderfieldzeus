@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Greetings, loved ones! 😀</h3>
-  <img src="./images/mrbean.gif" width="550px"/>
+  <img src="./images/mrbean.gif" width="800px"/>
   <h4>Problem Solver | Quick Learner | Innovator</h4>
 </div>
 
