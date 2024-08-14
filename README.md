@@ -18,7 +18,12 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=white&color=%23777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-white?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6"/>
+  <img src="https://img.shields.io/badge/REACT%20JS-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/badge/NODE-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&color=%235FA04E"/>
+  <img src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"/>
+  <img src="https://img.shields.io/badge/FIREBASE-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00">
   <img src="https://img.shields.io/badge/LINUX-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/UBUNTU-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
