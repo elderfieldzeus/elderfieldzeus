@@ -1,5 +1,4 @@
 <div align="center">
-  <h3>hi there 😀</h3>
   <img src="./images/mrbean.gif" width="600px"/>
   <h4>Problem Solver | Quick Learner | Innovator</h4>
 </div>
