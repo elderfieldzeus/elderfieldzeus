@@ -5,11 +5,11 @@
 
 <hr />
 
-### About me 🙋🏻‍♂️
-- Currently studying **Computer Science** at the **University of San Carlos**. 🏫
-- Interested in **Programming**, **Software Development**, and **Data Science**. 🖥️
-- Currently learning **Competitive Programming** with **C++** and **Python**. 🧔🏻‍♂️
-- Aspiring to become a future **Software Engineer**. 👨🏻‍💻
+### About me 
+- 🏫 Currently studying **Computer Science** at the **University of San Carlos**.
+- 🖥️ Interested in **Programming**, **Software Development**, and **Data Science**. 
+- 🧔🏻‍♂️ Currently learning **Competitive Programming** with **C++** and **Python**. 
+- 👨🏻‍💻 Aspiring to become a future **Software Engineer**. 
 
 ### Technology Stack 🤓
 <div align="center"> <!--- from simpleicons.org --->
