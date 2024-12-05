@@ -11,7 +11,7 @@
 - 🧔🏻‍♂️ Currently learning **Competitive Programming** with **C++** and **Python**. 
 - 👨🏻‍💻 Aspiring to become a future **Software Engineer**. 
 
-### Technology Stack 🤓
+### Technology Stack
 <div align="center"> <!--- from simpleicons.org --->
   <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
@@ -36,7 +36,7 @@
 
 <hr />
 
-### Github Stats 📈
+### Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elderfieldzeus&theme=dark&show_icons=true" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderfieldzeus&theme=dark&layout=compact" height="150px"/>
