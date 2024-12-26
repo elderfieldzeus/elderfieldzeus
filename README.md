@@ -7,7 +7,7 @@
 
 ### About me 
 - 🏫 Currently studying **Computer Science** at the **University of San Carlos**.
-- 🖥️ Interested in **Programming**, **Software Development**, and **Data Science**. 
+- 🖥️ Interested in **Competitive Programming**, **Software Development**, and **Data Science**. 
 - 🏆 Currently learning **Data Science** and **Machine Learning** with **Datacamp**. 
 - 👨🏻‍💻 Aspiring to become a future **Software Engineer**.
 
