@@ -3,17 +3,18 @@
   <h4>Problem Solver | Quick Learner | Innovator</h4>
 </div>
 
-<hr />
+#
 
 ### About me 
 - 🏫 Currently studying **Computer Science** at the **University of San Carlos**.
 - 🖥️ Interested in **Programming**, **Software Development**, and **Data Science**. 
 - 🏆 Currently learning **Data Science** and **Machine Learning** with **Datacamp**. 
-- 👨🏻‍💻 Aspiring to become a future **Software Engineer**. 
+- 👨🏻‍💻 Aspiring to become a future **Software Engineer**.
 
-<hr />
+#
 <!--- from simpleicons.org --->
 
+### Technology Stack
 <h4 align="center">Main Languages</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -54,9 +55,10 @@
   <img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
-<hr />
 
-### Github Stats
+#
+
+<h3>Github Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elderfieldzeus&theme=dark&show_icons=true" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderfieldzeus&theme=dark&layout=compact" height="150px"/>
