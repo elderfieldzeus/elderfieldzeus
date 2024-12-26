@@ -9,7 +9,7 @@
 - 🏫 Currently studying **Computer Science** at the **University of San Carlos**.
 - 🖥️ Interested in **Competitive Programming**, **Software Development**, and **Data Science**. 
 - 🏆 Currently learning **Data Science** and **Machine Learning** with **Datacamp**. 
-- 👨🏻‍💻 Aspiring to become a future **Software Engineer**.
+- 👨🏻‍💻 Aspiring to become a future **Software Engineer** / **Machine Learning Engineer**.
 
 #
 <!--- from simpleicons.org --->
