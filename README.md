@@ -11,7 +11,7 @@
 - 🏆 Currently learning **Data Science** and **Machine Learning** with **Datacamp**. 
 - 👨🏻‍💻 Aspiring to become a future **Software Engineer**. 
 
-<br/>
+<hr />
 <!--- from simpleicons.org --->
 
 <h4 align="center">Main Languages</h4>
