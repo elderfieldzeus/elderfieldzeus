@@ -47,7 +47,8 @@
   <img src="https://img.shields.io/badge/.net-%23512BD4?style=for-the-badge&logo=.net&logoColor=white&color=%23512BD4" />
   <img src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"/>
   <img src="https://img.shields.io/badge/FIREBASE-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00" />
-  <img src="https://img.shields.io/badge/supabase-%233FCF8E?style=for-the-badge&logo=python&logoColor=white&color=%233FCF8E" />
+  <img src="https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase&logoColor=white&color=%233FCF8E" />
+  
 </div>
 
 #### Others
