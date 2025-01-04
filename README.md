@@ -23,11 +23,12 @@
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" alt="Python"/>
 </div>
 
-<h4 align="center">Data Science</h4>
+<h4 align="center">Data Science & Machine Learning</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/JUPYTER-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458" />
   <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white&color=%23013243" />
+  <img src='https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=%23F7931E' />
 </div>
 
 <h4 align="center">Frontend Development</h4>
@@ -39,7 +40,7 @@
   <img src="https://img.shields.io/badge/next-%23000000?style=for-the-badge&logo=next.js&logoColor=white&color=%23000000" />
 </div>
 
-<h4 align="center">Backend Development</h4>
+<h4 align="center">Backend & Database Development</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/NODE-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&color=%235FA04E"/>
   <img src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white&color=%23000000"/>
@@ -50,7 +51,7 @@
   
 </div>
 
-<h4 align="center">Tools and etc.</h4>
+<h4 align="center">Tools & etc.</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
