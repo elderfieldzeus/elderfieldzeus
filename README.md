@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/next-%23000000?style=for-the-badge&logo=next.js&logoColor=white&color=%23000000" />
 </div>
 
-<h4 align="center">Backend & Database Development</h4>
+<h4 align="center">Backend Development</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/NODE-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&color=%235FA04E"/>
   <img src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white&color=%23000000"/>
