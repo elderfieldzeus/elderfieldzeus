@@ -68,3 +68,16 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=elderfieldzeus&color=lightgrey"/>
 </div>
+
+#
+
+<h3>Contact Me</h3>
+<div align='center'>
+  <a href='mailto:zdelderfield.work@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href='https://www.linkedin.com/in/elderfieldzeus/'>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
