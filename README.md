@@ -60,7 +60,7 @@
 
 #
 
-<h3>Github Stats</h3>
+<h3>Github Statistics</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elderfieldzeus&theme=dark&show_icons=true" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderfieldzeus&theme=dark&layout=compact" height="150px"/>
@@ -71,7 +71,7 @@
 
 #
 
-<h3>Contact Me</h3>
+<h3>Connect with me</h3>
 <div align='center'>
   <a href='mailto:zdelderfield.work@gmail.com'>
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -79,5 +79,12 @@
   <a href='https://www.linkedin.com/in/elderfieldzeus/'>
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href='https://leetcode.com/your-username/'>
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href='https://www.codewars.com/users/elderfieldzeus'>
+    <img src="https://img.shields.io/badge/Codewars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
+  </a>
 </div>
+
 
