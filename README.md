@@ -17,57 +17,90 @@
 ### Technology Stack
 <h4 align="center">Main Languages</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-white?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6"/>
-  <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" alt="Python"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TYPESCRIPT-white?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" alt="Python"/>
+  </a>
 </div>
 
 <h4 align="center">Data Science & Machine Learning</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/JUPYTER-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458" />
-  <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white&color=%23013243" />
-  <img src='https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=%23F7931E' />
-  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/JUPYTER-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458" />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white&color=%23013243" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src='https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=%23F7931E' />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
 </div>
 
 <h4 align="center">Frontend Development</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/TAILWINDCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4"/>
-  <img src="https://img.shields.io/badge/REACT%20JS-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/next-%23000000?style=for-the-badge&logo=next.js&logoColor=white&color=%23000000" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TAILWINDCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/REACT%20JS-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&color=%2361DAFB"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/next-%23000000?style=for-the-badge&logo=next.js&logoColor=white&color=%23000000" />
+  </a>
 </div>
 
 <h4 align="center">Backend Development</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/NODE-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&color=%235FA04E"/>
-  <img src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white&color=%23000000"/>
-  <img src="https://img.shields.io/badge/.net-%23512BD4?style=for-the-badge&logo=.net&logoColor=white&color=%23512BD4" />
-  <img src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"/>
-  <img src="https://img.shields.io/badge/FIREBASE-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00" />
-  <img src="https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase&logoColor=white&color=%233FCF8E" />
-  
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NODE-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&color=%235FA04E"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white&color=%23000000"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.net-%23512BD4?style=for-the-badge&logo=.net&logoColor=white&color=%23512BD4" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FIREBASE-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00" />
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase&logoColor=white&color=%233FCF8E" />
+  </a>
 </div>
 
 <h4 align="center">Tools & etc.</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  </a>
 </div>
 
-#
-
-<h3>Github Statistics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elderfieldzeus&theme=dark&show_icons=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderfieldzeus&theme=dark&layout=compact" height="150px"/>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=elderfieldzeus&color=lightgrey"/>
-</div>
 
 #
 
