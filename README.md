@@ -36,11 +36,11 @@
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://img.shields.io/badge/JUPYTER-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458" />
-  </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white&color=%23013243" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src='https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=%23F7931E' />
