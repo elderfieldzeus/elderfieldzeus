@@ -122,7 +122,7 @@
   <a href='https://www.linkedin.com/in/elderfieldzeus/'>
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href='https://leetcode.com/your-username/'>
+  <a href='https://leetcode.com/elderfieldzeus24/'>
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href='https://hackerrank.com/profile/elderfieldzeus24'>
