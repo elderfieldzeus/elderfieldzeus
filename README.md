@@ -42,11 +42,20 @@
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458" />
   </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-%2300599C?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib"/>
+  </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src='https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=%23F7931E' />
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   </a>
 </div>
 
