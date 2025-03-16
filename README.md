@@ -118,7 +118,7 @@
 <h3>Github Statistics</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elderfieldzeus&theme=dark&show_icons=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderfieldzeus&theme=dark&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderfieldzeus&theme=dark&layout=compact&hide=Jupyter%20Notebook" height="150px"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=elderfieldzeus&color=lightgrey"/>
