@@ -8,7 +8,7 @@
 ### About me 
 - 🏫 Currently studying **Computer Science** at the **University of San Carlos**.
 - 🖥️ Interested in **Competitive Programming**, **Software Development**, and **Data Science**. 
-- 🏆 Currently learning **Data Science** and **Machine Learning** with **Datacamp**. 
+- 🏆 Currently learning **Backend Engineering**. 
 - 👨🏻‍💻 Aspiring to become a future **Software Engineer** / **Machine Learning Engineer**.
 
 #
@@ -28,34 +28,6 @@
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" alt="Python"/>
-  </a>
-</div>
-
-<h4 align="center">Data Science & Machine Learning</h4>
-<div align="center">
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/JUPYTER-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white&color=%23013243" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-%2300599C?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src='https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=%23F7931E' />
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  </a>
-  <a href="https://keras.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   </a>
 </div>
 
@@ -100,6 +72,34 @@
   </a>
   <a href="https://supabase.com/" target="_blank">
     <img src="https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase&logoColor=white&color=%233FCF8E" />
+  </a>
+</div>
+
+<h4 align="center">Data Science & Machine Learning</h4>
+<div align="center">
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/JUPYTER-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white&color=%23013243" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-%2300599C?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src='https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=%23F7931E' />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   </a>
 </div>
 
