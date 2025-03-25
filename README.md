@@ -9,7 +9,7 @@
 - 🏫 Currently studying **Computer Science** at the **University of San Carlos**.
 - 🖥️ Interested in **Competitive Programming**, **Software Development**, and **Data Science**. 
 - 🏆 Currently learning **Backend Engineering**. 
-- 👨🏻‍💻 Aspiring to become a future **Software Engineer** / **Machine Learning Engineer**.
+- 👨🏻‍💻 Web Developer @ Today's Carolinian
 
 #
 <!--- from simpleicons.org --->
