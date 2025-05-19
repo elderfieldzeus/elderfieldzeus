@@ -61,6 +61,9 @@
     <a href="https://expressjs.com/" target="_blank">
       <img src="https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white&color=%23000000"/>
     </a>
+    <a href="https://nestjs.com/" target="_blank">
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white&color=%23E0234E"/>
+    </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank">
       <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=%236DB33F" />
     </a>
@@ -70,6 +73,9 @@
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"/>
     </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://img.shields.io/badge/postgres-%23336791?style=for-the-badge&logo=postgresql&logoColor=white&color=%23336791" />
+    </a>
     <a href="https://firebase.google.com/" target="_blank">
       <img src="https://img.shields.io/badge/FIREBASE-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00" />
     </a>
@@ -77,7 +83,8 @@
       <img src="https://img.shields.io/badge/supabase-white?style=for-the-badge&logo=supabase&logoColor=white&color=%233FCF8E" />
     </a>
   </div>
-  
+
+  <!--
   <h5 align="center">Data Science & Machine Learning</h5>
   <div align="center">
     <a href="https://jupyter.org/" target="_blank">
@@ -105,6 +112,7 @@
       <img src="https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
     </a>
   </div>
+   -->
   
   <h5 align="center">Tools & etc.</h4>
   <div align="center">
