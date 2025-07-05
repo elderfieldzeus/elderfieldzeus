@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/mrbean.gif" width="100%"/>
+  <img src="./images/mrbean.gif" width="650px"/>
   <h4>Problem Solver | Quick Learner | Innovator</h4>
 </div>
 
