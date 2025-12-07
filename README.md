@@ -147,13 +147,13 @@
     <b>Connect with me</b>
   </summary>
   <div align='center'>
-    <a href='mailto:zdelderfield.work@gmail.com'>
+    <a href='mailto:elderfieldzeus@gmail.com'>
       <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href='https://www.linkedin.com/in/elderfieldzeus/'>
       <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href='https://leetcode.com/elderfieldzeus24/'>
+    <a href='https://leetcode.com/elderfieldzeus/'>
       <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
     <a href='https://hackerrank.com/profile/elderfieldzeus24'>
