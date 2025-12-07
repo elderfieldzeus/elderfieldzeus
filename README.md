@@ -8,8 +8,8 @@
 <b> About me </b>
 - 🏫 Currently studying **Computer Science** at the **University of San Carlos**.
 - 🖥️ Interested in **Competitive Programming**, **Software Development**, and **Data Science**. 
-- 🏆 Currently learning **Backend Engineering**. 
-- 👨🏻‍💻 **Web Developer** at Today's Carolinian.
+- 🏆 Currently learning **Backend Engineering**.
+- 👨🏻‍💻 **Software / AI Engineer Intern** at oboda.
 
 #
 <!--- from simpleicons.org --->
