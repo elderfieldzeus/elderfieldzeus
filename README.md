@@ -6,11 +6,9 @@
 #
 
 <b> About me </b>
-- 🏫 Currently studying **Computer Science** at the **University of San Carlos**.
+- 👨🏻‍💻 **AI Engineer** at oboda.
 - 🖥️ Interested in **Competitive Programming**, **Software Development**, and **Data Science**.
 - 🏆 Currently learning **AI Engineering**.
-- 👨🏻‍💻 **AI Engineer** at oboda.
-- 🗣️ **VP for Information** at USC Computer and Information Sciences Council
 
 #
 <!--- from simpleicons.org --->
