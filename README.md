@@ -88,7 +88,7 @@
 
   <div align="left">
     <a href="mailto:elderfieldzeus@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Gmail" title="Gmail" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/elderfieldzeus/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/elderfieldzeus/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://leetcode.com/elderfieldzeus/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" alt="LeetCode" title="LeetCode" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://hackerrank.com/profile/elderfieldzeus24"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="28" height="28" alt="HackerRank" title="HackerRank" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.codewars.com/users/elderfieldzeus"><img src="https://cdn.simpleicons.org/codewars/B1361E" width="28" height="28" alt="Codewars" title="Codewars" /></a>
