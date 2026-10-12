@@ -17,7 +17,7 @@
   <summary><strong>Technology Stack</strong></summary>
   <br />
 
-  <div align="left">
+  <div align="center">
     <sub><strong>MAIN LANGUAGES</strong></sub>
     <br /><br />
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="32" height="32" alt="C" title="C" /></a>&nbsp;&nbsp;
@@ -28,7 +28,7 @@
 
   <br />
 
-  <div align="left">
+  <div align="center">
     <sub><strong>FRONTEND</strong></sub>
     <br /><br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" width="32" height="32" alt="HTML5" title="HTML5" /></a>&nbsp;&nbsp;
@@ -40,7 +40,7 @@
 
   <br />
 
-  <div align="left">
+  <div align="center">
     <sub><strong>BACKEND & DATA</strong></sub>
     <br /><br />
     <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="32" height="32" alt="Node.js" title="Node.js" /></a>&nbsp;&nbsp;
@@ -56,7 +56,7 @@
 
   <br />
 
-  <div align="left">
+  <div align="center">
     <sub><strong>TOOLS</strong></sub>
     <br /><br />
     <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" title="Git" /></a>&nbsp;&nbsp;
@@ -73,7 +73,7 @@
   <summary><strong>GitHub Statistics</strong></summary>
   <br />
 
-  <div align="left">
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=elderfieldzeus&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&icon_color=8B949E" height="145" alt="GitHub statistics" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elderfieldzeus&layout=compact&hide=Jupyter%20Notebook,CSS&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E" height="145" alt="Most used languages" />
     <br />
@@ -86,7 +86,7 @@
   <summary><strong>Connect with me</strong></summary>
   <br />
 
-  <div align="left">
+  <div align="center">
     <a href="mailto:elderfieldzeus@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Gmail" title="Gmail" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/elderfieldzeus/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://leetcode.com/elderfieldzeus/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" alt="LeetCode" title="LeetCode" /></a>&nbsp;&nbsp;&nbsp;
