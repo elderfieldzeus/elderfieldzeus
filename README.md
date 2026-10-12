@@ -18,12 +18,13 @@
   <br />
 
   <div align="center">
-    <sub><strong>MAIN LANGUAGES</strong></sub>
+    <sub><strong>LANGUAGES</strong></sub>
     <br /><br />
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="32" height="32" alt="C" title="C" /></a>&nbsp;&nbsp;
-    <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="32" height="32" alt="C++" title="C++" /></a>&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" height="32" alt="TypeScript" title="TypeScript" /></a>&nbsp;&nbsp;
-    <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python" title="Python" /></a>
+    <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python" title="Python" /></a>&nbsp;&nbsp;
+    <a href="https://go.dev/" target="_blank"><img src="https://cdn.simpleicons.org/go/00ADD8" width="32" height="32" alt="Go" title="Go" /></a>&nbsp;&nbsp;
+    <a href="https://dev.java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" alt="Java" title="Java" /></a>&nbsp;&nbsp;
+    <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://cdn.simpleicons.org/sharp/512BD4" width="32" height="32" alt="C#" title="C#" /></a>
   </div>
 
   <br />
@@ -31,11 +32,11 @@
   <div align="center">
     <sub><strong>FRONTEND</strong></sub>
     <br /><br />
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" width="32" height="32" alt="HTML5" title="HTML5" /></a>&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css/663399" width="32" height="32" alt="CSS3" title="CSS3" /></a>&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;&nbsp;
     <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32" alt="React" title="React" /></a>&nbsp;&nbsp;
-    <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/8B949E" width="32" height="32" alt="Next.js" title="Next.js" /></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/8B949E" width="32" height="32" alt="Next.js" title="Next.js" /></a>&nbsp;&nbsp;
+    <a href="https://angular.dev/" target="_blank"><img src="https://cdn.simpleicons.org/angular/DD0031" width="32" height="32" alt="Angular" title="Angular" /></a>&nbsp;&nbsp;
+    <a href="https://astro.build/" target="_blank"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="32" height="32" alt="Astro" title="Astro" /></a>&nbsp;&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" /></a>
   </div>
 
   <br />
@@ -46,6 +47,8 @@
     <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="32" height="32" alt="Node.js" title="Node.js" /></a>&nbsp;&nbsp;
     <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/8B949E" width="32" height="32" alt="Express" title="Express" /></a>&nbsp;&nbsp;
     <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="32" height="32" alt="NestJS" title="NestJS" /></a>&nbsp;&nbsp;
+    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.simpleicons.org/fastapi/009688" width="32" height="32" alt="FastAPI" title="FastAPI" /></a>&nbsp;&nbsp;
+    <a href="https://hono.dev/" target="_blank"><img src="https://cdn.simpleicons.org/hono/E36002" width="32" height="32" alt="Hono" title="Hono" /></a>&nbsp;&nbsp;
     <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="32" height="32" alt="Spring Boot" title="Spring Boot" /></a>&nbsp;&nbsp;
     <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="32" height="32" alt=".NET" title=".NET" /></a>&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" height="32" alt="MySQL" title="MySQL" /></a>&nbsp;&nbsp;
@@ -57,15 +60,30 @@
   <br />
 
   <div align="center">
-    <sub><strong>TOOLS</strong></sub>
+    <sub><strong>AI & ML</strong></sub>
     <br /><br />
-    <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" title="Git" /></a>&nbsp;&nbsp;
-    <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="32" height="32" alt="Figma" title="Figma" /></a>
+    <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="32" height="32" alt="PyTorch" title="PyTorch" /></a>&nbsp;&nbsp;
+    <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face" title="Hugging Face" /></a>&nbsp;&nbsp;
+    <a href="https://openai.com/" target="_blank"><img src="https://api.iconify.design/simple-icons:openai.svg?color=%238B949E" width="32" height="32" alt="OpenAI" title="OpenAI" /></a>&nbsp;&nbsp;
+    <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="32" height="32" alt="LangChain" title="LangChain" /></a>&nbsp;&nbsp;
+    <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://cdn.simpleicons.org/langgraph/8B949E" width="32" height="32" alt="LangGraph" title="LangGraph" /></a>&nbsp;&nbsp;
+    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/8B949E" width="32" height="32" alt="pandas" title="pandas" /></a>&nbsp;&nbsp;
+    <a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/numpy/4D77CF" width="32" height="32" alt="NumPy" title="NumPy" /></a>&nbsp;&nbsp;
+    <a href="https://mastra.ai/" target="_blank"><img src="./images/mastra.svg" width="32" height="32" alt="Mastra" title="Mastra" /></a>
   </div>
 
-  <!-- Data Science & Machine Learning stack retained for future use:
-  Jupyter, NumPy, pandas, Matplotlib, scikit-learn, PyTorch, TensorFlow, Keras.
-  -->
+  <br />
+
+  <div align="center">
+    <sub><strong>PLATFORM & TOOLS</strong></sub>
+    <br /><br />
+    <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" title="Git" /></a>&nbsp;&nbsp;
+    <a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="32" height="32" alt="Cloudflare" title="Cloudflare" /></a>&nbsp;&nbsp;
+    <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="32" height="32" alt="Figma" title="Figma" /></a>&nbsp;&nbsp;
+    <a href="https://claude.ai/" target="_blank"><img src="https://cdn.simpleicons.org/claude/D97757" width="32" height="32" alt="Claude" title="Claude" /></a>&nbsp;&nbsp;
+    <a href="https://openai.com/codex/" target="_blank"><img src="https://api.iconify.design/simple-icons:openai.svg?color=%238B949E" width="32" height="32" alt="Codex" title="Codex" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/NousResearch/hermes-agent" target="_blank"><img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/icon-master.svg" width="32" height="32" alt="Hermes Agent" title="Hermes Agent" /></a>
+  </div>
   <br />
 </details>
 
